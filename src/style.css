@@ -240,7 +240,7 @@ body {
 }
 
 .icon-link {
-    fill: var(--link);
+    fill: var(--medium-emphasis);
 }
 
 .info-text-container {
@@ -265,7 +265,7 @@ body {
     cursor: pointer;
 }
 
-.info-link-container:nth-child(-n+2):is(:hover)>.link {
+.info-link-container:nth-child(-n+2):is(:hover)>.link+.icon-link {
     fill: var(--link-hovered);
     color: var(--link-hovered);
 }
