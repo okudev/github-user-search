@@ -22,19 +22,19 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('/fonts/SF-Pro-Display-Regular.otf');
+    src: url('../fonts/SF-Pro-Display-Regular.otf');
     font-weight: 400;
 }
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('/fonts/SF-Pro-Display-Medium.otf');
+    src: url('../fonts/SF-Pro-Display-Medium.otf');
     font-weight: 500;
 }
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('/fonts/SF-Pro-Display-Semibold.otf');
+    src: url('../fonts/SF-Pro-Display-Semibold.otf');
     font-weight: 600;
 }
 
