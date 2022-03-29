@@ -1,0 +1,23 @@
+{
+  "name": "github-user-search-refactor",
+  "version": "1.0.0",
+  "description": "Search and view a Github user via the Github API",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okudev/github-user-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okudev/github-user-search/issues"
+  },
+  "homepage": "https://github.com/okudev/github-user-search",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
