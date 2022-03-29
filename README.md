@@ -7,3 +7,6 @@ Live preview — https://okudev.github.io/github-user-search
 A small, personal project built using HTML5, CSS and vanilla Javascript.
 
 I used this project to learn about working with an API, as well as some of the fundamentals of Javascript and basic DOM manipulation.
+
+## TODO
+Make the card reponsive
