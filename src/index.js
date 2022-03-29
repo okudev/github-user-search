@@ -35,10 +35,10 @@ const userPrefersLight = window.matchMedia && window.matchMedia('(prefers-color-
 document.addEventListener('DOMContentLoaded', () => {
     if (userPrefersDark && !theme) {
         setTheme('dark');
-        favicon.src = '../assets/favions/dark.svg';
+        favicon.src = 'assets/favions/dark.svg';
     } else if (userPrefersLight && !theme) {
         setTheme('light');
-        favicon.src = '../assets/favions/light.svg';
+        favicon.src = 'assets/favions/light.svg';
     } else if (theme === 'dark') {
         setTheme('dark');
     } else if (theme === 'light') {
